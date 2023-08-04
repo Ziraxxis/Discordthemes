@@ -1,6 +1,6 @@
 :root {
-    --font-primary: var(--customFont) ,"gg sans";
-    --font-display: var(--customFont) ,"gg sans";
+    --font-primary: var(--customFont) ,"Liberation Sans";
+    --font-display: var(--customFont) ,"Liberation Sans";
 }
 ::placeholder, body, button, input, select, textarea{
     font-family: var(--customFont) !important;
